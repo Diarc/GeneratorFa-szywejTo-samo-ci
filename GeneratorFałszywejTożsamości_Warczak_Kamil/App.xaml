@@ -1,0 +1,9 @@
+﻿<Application x:Class="GeneratorFałszywejTożsamości_Warczak_Kamil.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GeneratorFałszywejTożsamości_Warczak_Kamil"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
